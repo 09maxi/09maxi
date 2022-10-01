@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me marzm06@outlook.com
+- 📫 How to reach me ..
 
 <!---
 09maxi/09maxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
